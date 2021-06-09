@@ -1,0 +1,25 @@
+{
+  "name": "onlyblocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:docker": "docker run onlyblocks",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "docker build --pull -t onlyblocks ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirionlogan/onlyblocks.git"
+  },
+  "author": "Logan Thirion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thirionlogan/onlyblocks/issues"
+  },
+  "homepage": "https://github.com/thirionlogan/onlyblocks#readme",
+  "dependencies": {
+    "needle": "^2.6.0"
+  }
+}
