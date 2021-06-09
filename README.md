@@ -9,3 +9,5 @@ I will use the money for hosting and API fees which scale with use. If I do not 
 I highly appreciate the feedback.
 
 I am open to the possibility of storing credentials for a limited amount of time so that users do not have to log in regularly as long as I can do it securely and there is a want.
+
+[Contribute to the Patreon to raise rate limits!](https://www.patreon.com/user?u=2813550)
